@@ -2,6 +2,13 @@
 
 A machine learning-powered music recommendation system built with FastAPI and Streamlit, utilizing the Spotify API for music data and recommendations.
 
+## Demo
+
+<video width="100%" controls>
+  <source src="demo/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Features
 
 - User authentication and registration
