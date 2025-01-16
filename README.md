@@ -107,7 +107,7 @@ streamlit run streamlit_app.py
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the [MIT](https://github.com/NiharP31/Spotify_Recommender_system/blob/main/LICENSE) License.
 
 ## Acknowledgments
 
