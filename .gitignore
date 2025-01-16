@@ -1,0 +1,5 @@
+sec.py
+spotify_recommender.db
+.env
+.cache
+__pycache__/
