@@ -3,3 +3,4 @@ spotify_recommender.db
 .env
 .cache
 __pycache__/
+.gitignore
