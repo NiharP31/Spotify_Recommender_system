@@ -2,6 +2,11 @@
 
 A machine learning-powered music recommendation system built with FastAPI and Streamlit, utilizing the Spotify API for music data and recommendations.
 
+## Demo
+
+![Demo](demo/demo.gif)
+
+
 ## Features
 
 - User authentication and registration
