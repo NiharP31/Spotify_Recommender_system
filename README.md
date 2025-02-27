@@ -26,31 +26,6 @@ A machine learning-powered music recommendation system built with FastAPI and St
 - **Data Science**: Pandas, NumPy
 - **Visualization**: Plotly
 
-## Project Structure
-
-```
-spotify_recommendation_system/
-├── app/
-│   ├── __init__.py
-│   ├── main.py
-│   ├── config.py
-│   ├── database.py
-│   ├── models/
-│   │   ├── __init__.py
-│   │   ├── database_models.py
-│   ├── routers/
-│   │   ├── __init__.py
-│   │   ├── auth.py
-│   │   ├── recommendations.py
-│   ├── services/
-│   │   ├── __init__.py
-│   │   ├── recommendation_service.py
-│   └── models_store/
-│       └── .gitkeep
-├── streamlit_app.py
-└── requirements.txt
-```
-
 ## Installation
 
 1. Clone the repository:
